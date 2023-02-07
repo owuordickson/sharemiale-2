@@ -1,4 +1,6 @@
-# sharemiale: share the light of God
+# sharemiale 
+
+share the light of God
 
 ### Projects
 
